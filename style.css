@@ -110,14 +110,11 @@ aside {
 aside img {
   width: 200px;
 }
-aside.walikota {
-  margin-top: 15px;
-  line-height: 10px;
+aside.biodata {
+  margin-top: 10px;
 }
-aside.walikota p {
-  padding-top: 15px;
-  font-weight: bold;
-  text-align: center;
+aside.biodata h4 {
+  margin: 0;
 }
 
 .pop-nama {
